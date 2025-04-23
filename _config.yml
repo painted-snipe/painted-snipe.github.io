@@ -1,0 +1,9 @@
+title: "<Your Name> – Portfolio"
+description: "My projects, bio & links"
+theme: minima
+plugins:
+  - jekyll-feed
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
