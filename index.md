@@ -1,6 +1,11 @@
-Hi, I am Prathamesh Doundkar from India 🍣🚅🏯📚.
+---
+layout: home
+title: "<Prathamesh Doundkar> (प्रथमेश दौंडकर)"
+---
 
-I am a Ph.D. student in the Visual Computing & AI Dept. at the Max Planck Institute for Informatics…  
+Hi, I am **<Your Name>** from India 🇮🇳🍛🏏🎉.
+
+I am a Masters student in the Sarrland Informatics Campus at the Saarland University.  
 Previously, I earned my MS & BS at Keio University…  
-E-mail: hakada@mpi-inf.mpg.de  
-[Google Scholar](#) / [Twitter](#) / [LinkedIn](#) / [GitHub](#)
+E-mail: prdo00001@stud.uni-saarland.de  
+[LinkedIn](#) / [GitHub](#)
