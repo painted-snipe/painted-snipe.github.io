@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div class="intro">
+  <div class="intro-text">
+    <h1>{{ site.title }}</h1>
+    {{ content }}
+  </div>
+  <div class="intro-image">
+    <img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Profile photo">
+  </div>
+</div>
+
+<h2>News</h2>
+<ul class="news-list">
+  {% for item in site.data.news %}
+    <li><strong>[{{ item.date }}]</strong> {{ item.text }}</li>
+  {% endfor %}
+</ul>
+
+<h2>Research</h2>
+<ul>
+  {% for topic in site.data.research %}
+    <li>{{ topic }}</li>
+  {% endfor %}
+</ul>
